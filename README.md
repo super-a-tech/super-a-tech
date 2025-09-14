@@ -8,7 +8,7 @@
 
 
 ![Splunk](https://img.shields.io/badge/Splunk-2BAEEC?style=for-the-badge&logo=splunk&logoColor=white)
-![Nmap](https://img.shields.io/badge/tool-Nmap-darkgreen) ![Network-Scanning](https://img.shields.io/badge/skill-Network%20Scanning-yellow)
+![Nmap](https://img.shields.io/badge/tool-Nmap-darkgreen) 
 ![Phishing](https://img.shields.io/badge/Phishing-red?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

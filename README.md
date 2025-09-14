@@ -7,6 +7,9 @@
 ## 🛠 Skills
 
 ![Firewall](https://img.shields.io/badge/Firewall-E74C3C?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ![Splunk](https://img.shields.io/badge/Splunk-2BAEEC?style=for-the-badge&logo=splunk&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)

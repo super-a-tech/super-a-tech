@@ -1,5 +1,8 @@
 
-# 👋 Hi, I'm Super A
+#  <p align="center">
+  <img src="digital_welcome.gif" alt="Hi, I'm Super A" width="600"/>
+</p>
+
 💻 IT Security/AWS/DevSecOps | 🚀 Passionate about automation & scalable systems  
 
 ---

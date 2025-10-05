@@ -1,5 +1,6 @@
 
-# 💻 Hi, I'm Super A
+# 👩‍💻 Hi, I'm Super A
+
 
 
 💻 IT Security/AWS/DevSecOps | 🚀 Passionate about automation & scalable systems  
